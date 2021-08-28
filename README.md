@@ -1,5 +1,9 @@
 # ShapeNetRendering-Dataset-Loader-PyTorch
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/34999814/131212247-dd6942b1-48fd-4d50-ab18-8d4e53fa3fa1.jpg">
+</p>
+
 ## Dataset loader for ShapeNetRendering Dataset used in [Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh)
 
 ### Pre-requisite:
