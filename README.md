@@ -13,5 +13,5 @@
  - plyfile 0.7.4
  - pytorch 1.4.0
  - rich 10.6.0
- - shikit-image 0.18.2
+ - sikit-image 0.18.2
  - torchvision 0.5.0
